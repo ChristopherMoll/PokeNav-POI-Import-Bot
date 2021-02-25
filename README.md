@@ -18,3 +18,6 @@ Once the bot has successfully joined your server, use the `$start` command in wh
 
 ## Stopping
 Currently the only way to stop the bot from sending messages is to kill the bot via your command line (Control+C for Windows).
+
+## Usage
+For our server, we used a spreadsheet of our POIs to create a calculated column for PokeNav commands.  Then we copy and pasted that column into poi.txt.  If your POIs are in spreadsheet form, or can be exported into spreadsheet form, this is probably the easiest method.
