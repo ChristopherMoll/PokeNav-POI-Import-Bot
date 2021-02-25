@@ -1,0 +1,10 @@
+$create poi gym "Name Of Gym" 45.00 -75.00
+$create poi gym "Name Of Gym" 45.00 -75.00
+$create poi gym "Name Of Gym" 45.00 -75.00
+$create poi gym "Name Of Gym" 45.00 -75.00
+$create poi gym "Name Of Gym" 45.00 -75.00
+$create poi gym "Name Of Gym" 45.00 -75.00
+$create poi gym "Name Of Gym" 45.00 -75.00
+$create poi gym "Name Of Gym" 45.00 -75.00
+$create poi gym "Name Of Gym" 45.00 -75.00
+$create poi gym "Name Of Gym" 45.00 -75.00
